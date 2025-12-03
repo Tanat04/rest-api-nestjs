@@ -74,5 +74,8 @@
     ],
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
+  },
+  "overrides": {
+    "validator": "13.15.22"
   }
 }
